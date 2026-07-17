@@ -52,15 +52,6 @@ Face Mask Detection
 Object Detection
 Image Classification
 
-## 🌱 Currently Learning
-
-- PyTorch
-- Computer Vision
-- 3D Perception
-- Robot Vision
-- ROS 2
-- SLAM
-
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/akshada-gadekar-2682a9358
