@@ -37,7 +37,9 @@ I am passionate about Artificial Intelligence, Machine Learning, Computer Vision
 - ## 🛠️ Tech Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<div style="background-color:black; display:inline-block; padding:10px; border-radius:10px;">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="50" style="filter: invert(1);"/>
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
