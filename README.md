@@ -19,7 +19,6 @@ I am passionate about Artificial Intelligence, Machine Learning, Computer Vision
 
 ## 💻 Technical Skills
 
-**Machine Learning & Deep Learning **
 -  Python
 - Machine Learning
 - Deep Learning
