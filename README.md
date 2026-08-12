@@ -73,7 +73,7 @@ Interested in joining the team or contributing to future projects?
 Engineers, researchers, students, and technical contributors from relevant
 domains are welcome to connect.
 
-📩 **Feel free to contact me through GitHub or LinkedIn.**
+📩 **Feel free to contact me through Email, GitHub or LinkedIn.**
 
 ## 📫 Connect with Me with the given links below .
 
